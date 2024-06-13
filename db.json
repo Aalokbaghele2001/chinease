@@ -1,0 +1,259 @@
+{
+  "chinease":[
+  {
+    "id": 1,
+    "dish": "Chicken Manchurian",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/11/chicken-manchurian-recipe.jpg",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "Crispy chicken pieces tossed in a tangy and spicy Manchurian sauce with bell peppers and onions.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Dragon Express",
+      "address": "123 Dragon Lane, Mumbai",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "20% off on Wednesdays",
+      "rating": 4.7,
+      "about": "Dragon Express offers a fusion of Indian and Chinese flavors, specializing in mouth-watering Indo-Chinese delicacies."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Veg Hakka Noodles",
+    "image": "https://www.cookwithkushi.com/wp-content/uploads/2020/11/veghakkanoodles5.jpg",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "Stir-fried noodles with mixed vegetables, seasoned with soy sauce and Chinese spices.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Chopsticks Delight",
+      "address": "456 East Street, Pune",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Free spring roll with every noodle order",
+      "rating": 4.6,
+      "about": "Chopsticks Delight serves delicious Indo-Chinese cuisine with a variety of noodle and rice dishes to choose from."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Gobi Manchurian",
+    "image": "https://www.cookingfromheart.com/wp-content/uploads/2019/10/Gobi-Manchurian-Dry-4.jpg",
+    "price": 109,
+    "type": "Vegetarian",
+    "desc": "Cauliflower florets battered and deep-fried, then tossed in a spicy and tangy Manchurian sauce.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Spice China",
+      "address": "789 Market Road, Bangalore",
+      "timing": "12:30 PM - 10:30 PM",
+      "offers": "15% off for first-time customers",
+      "rating": 4.8,
+      "about": "Spice China combines the bold flavors of Indian spices with the finesse of Chinese cooking, offering a unique dining experience."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Paneer Chilli",
+    "image": "https://www.cookingcarnival.com/wp-content/uploads/2021/10/PANEER-CHILLI-FINAL-3.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Paneer cubes stir-fried with green chilies, bell peppers, and onions in a spicy soy-based sauce.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Wok and Roll",
+      "address": "234 Central Avenue, Delhi",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "20% off on orders above Rs. 500",
+      "rating": 4.7,
+      "about": "Wok and Roll offers a dynamic blend of Indian and Chinese cuisines, with a focus on fresh ingredients and bold flavors."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Egg Fried Rice",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2021/03/egg-fried-rice-3.jpg",
+    "price": 89,
+    "type": "Non-Vegetarian",
+    "desc": "Stir-fried rice with eggs, mixed vegetables, and a touch of soy sauce.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Chow Chow",
+      "address": "567 West End, Kolkata",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "Buy 1 Get 1 Free on Tuesdays",
+      "rating": 4.6,
+      "about": "Chow Chow brings a taste of Indo-Chinese street food to your table, with a variety of fried rice and noodle dishes."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Honey Chili Potatoes",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/honey-chilli-potatoes-recipe-3.jpg",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "Crispy potato wedges tossed in a sweet and spicy honey chili sauce.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "The Red Lantern",
+      "address": "890 Riverside Drive, Hyderabad",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "Free dessert on orders above Rs. 600",
+      "rating": 4.8,
+      "about": "The Red Lantern offers a unique blend of Indian and Chinese flavors, with a menu full of exciting fusion dishes."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Chilli Chicken",
+    "image": "https://www.spiceupthecurry.com/wp-content/uploads/2020/10/chilli-chicken-1.jpg",
+    "price": 139,
+    "type": "Non-Vegetarian",
+    "desc": "Deep-fried chicken chunks stir-fried with green chilies, bell peppers, and onions in a spicy soy sauce.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Dragon's Den",
+      "address": "234 North Street, Chennai",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "10% off for college students",
+      "rating": 4.7,
+      "about": "Dragon's Den offers a wide range of Indo-Chinese dishes, perfect for those who love bold and spicy flavors."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Schezwan Fried Rice",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/01/schezwan-fried-rice.jpg",
+    "price": 119,
+    "type": "Vegetarian",
+    "desc": "Spicy fried rice with mixed vegetables, flavored with Schezwan sauce.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Szechuan Sensation",
+      "address": "567 New Road, Goa",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Free drink with every main course",
+      "rating": 4.5,
+      "about": "Szechuan Sensation specializes in spicy Indo-Chinese cuisine, with a focus on bold flavors and fresh ingredients."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Spring Rolls",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/09/spring-rolls-4.jpg",
+    "price": 79,
+    "type": "Vegetarian",
+    "desc": "Crispy rolls filled with mixed vegetables, served with a sweet and spicy dipping sauce.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Golden Wok",
+      "address": "789 South Lane, Jaipur",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "10% off on weekends",
+      "rating": 4.8,
+      "about": "Golden Wok offers a variety of Indo-Chinese dishes, known for their fresh and flavorful preparations."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Szechuan Chicken",
+    "image": "https://www.cookwithkushi.com/wp-content/uploads/2021/10/szechuan_chicken_recipe.jpg",
+    "price": 159,
+    "type": "Non-Vegetarian",
+    "desc": "Chicken stir-fried with vegetables in a spicy Szechuan sauce.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "China Gate",
+      "address": "234 Sunrise Boulevard, Chandigarh",
+      "timing": "1:00 PM - 10:30 PM",
+      "offers": "Free appetizer with every main course",
+      "rating": 4.7,
+      "about": "China Gate serves a mix of traditional and fusion Chinese dishes, with a focus on Szechuan flavors."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Crispy Fried Vegetables",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2018/09/Vegetable-Pakora.jpg",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "Mixed vegetables battered and deep-fried until crispy, served with a spicy dipping sauce.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Wok 'n' Roll",
+      "address": "123 Spice Avenue, Ahmedabad",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Free soup with any starter",
+      "rating": 4.6,
+      "about": "Wok 'n' Roll offers a diverse menu of Indo-Chinese dishes, perfect for those who love a mix of flavors."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Manchow Soup",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/01/manchow-soup.jpg",
+    "price": 69,
+    "type": "Vegetarian",
+    "desc": "A spicy and tangy soup with mixed vegetables, flavored with soy sauce and garlic, garnished with crispy noodles.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Soup Factory",
+      "address": "456 Central Market, Lucknow",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Buy 2 soups, get 1 free",
+      "rating": 4.8,
+      "about": "Soup Factory specializes in a variety of soups, offering both traditional and Indo-Chinese flavors."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Chilli Garlic Noodles",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/chilli-garlic-noodles-recipe.jpg",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "Spicy noodles stir-fried with garlic, chilies, and mixed vegetables.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Garlic Bowl",
+      "address": "789 West Avenue, Surat",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off for first-time customers",
+      "rating": 4.7,
+      "about": "Garlic Bowl offers a variety of Indo-Chinese dishes, with a focus on bold garlic and chili flavors."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Hot and Sour Soup",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/11/Hot-and-Sour-Soup.jpg",
+    "price": 79,
+    "type": "Vegetarian",
+    "desc": "A tangy and spicy soup with tofu, mushrooms, and vegetables, flavored with soy sauce and vinegar.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Soup City",
+      "address": "890 Central Plaza, Indore",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Free breadsticks with any soup",
+      "rating": 4.8,
+      "about": "Soup City offers a wide range of soups, from classic to exotic, with a focus on Indo-Chinese flavors."
+    }
+  },
+  {
+    "id": 15,
+    "dish": "Schezwan Paneer",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/08/schezwan-paneer-4.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Paneer cubes stir-fried in a spicy Schezwan sauce with bell peppers and onions.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Paneer Palace",
+      "address": "567 Market Street, Nagpur",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "20% off on orders above Rs. 600",
+      "rating": 4.9,
+      "about": "Paneer Palace specializes in a variety of paneer dishes, blending traditional Indian and Chinese flavors."
+    }
+  }
+]
+}
