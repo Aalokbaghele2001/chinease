@@ -8,6 +8,7 @@
     "type": "Non-Vegetarian",
     "desc": "Crispy chicken pieces tossed in a tangy and spicy Manchurian sauce with bell peppers and onions.",
     "rating": 4.8,
+    "category":"chinease",
     "restaurant": {
       "name": "Dragon Express",
       "address": "123 Dragon Lane, Mumbai",
@@ -25,6 +26,7 @@
     "type": "Vegetarian",
     "desc": "Stir-fried noodles with mixed vegetables, seasoned with soy sauce and Chinese spices.",
     "rating": 4.6,
+      "category":"chinease",
     "restaurant": {
       "name": "Chopsticks Delight",
       "address": "456 East Street, Pune",
@@ -42,6 +44,7 @@
     "type": "Vegetarian",
     "desc": "Cauliflower florets battered and deep-fried, then tossed in a spicy and tangy Manchurian sauce.",
     "rating": 4.7,
+      "category":"chinease",
     "restaurant": {
       "name": "Spice China",
       "address": "789 Market Road, Bangalore",
@@ -59,6 +62,7 @@
     "type": "Vegetarian",
     "desc": "Paneer cubes stir-fried with green chilies, bell peppers, and onions in a spicy soy-based sauce.",
     "rating": 4.8,
+      "category":"chinease",
     "restaurant": {
       "name": "Wok and Roll",
       "address": "234 Central Avenue, Delhi",
@@ -76,6 +80,7 @@
     "type": "Non-Vegetarian",
     "desc": "Stir-fried rice with eggs, mixed vegetables, and a touch of soy sauce.",
     "rating": 4.6,
+      "category":"chinease",
     "restaurant": {
       "name": "Chow Chow",
       "address": "567 West End, Kolkata",
@@ -93,6 +98,7 @@
     "type": "Vegetarian",
     "desc": "Crispy potato wedges tossed in a sweet and spicy honey chili sauce.",
     "rating": 4.7,
+      "category":"chinease",
     "restaurant": {
       "name": "The Red Lantern",
       "address": "890 Riverside Drive, Hyderabad",
@@ -110,6 +116,7 @@
     "type": "Non-Vegetarian",
     "desc": "Deep-fried chicken chunks stir-fried with green chilies, bell peppers, and onions in a spicy soy sauce.",
     "rating": 4.8,
+      "category":"chinease",
     "restaurant": {
       "name": "Dragon's Den",
       "address": "234 North Street, Chennai",
@@ -127,6 +134,7 @@
     "type": "Vegetarian",
     "desc": "Spicy fried rice with mixed vegetables, flavored with Schezwan sauce.",
     "rating": 4.6,
+      "category":"chinease",
     "restaurant": {
       "name": "Szechuan Sensation",
       "address": "567 New Road, Goa",
@@ -144,6 +152,7 @@
     "type": "Vegetarian",
     "desc": "Crispy rolls filled with mixed vegetables, served with a sweet and spicy dipping sauce.",
     "rating": 4.7,
+      "category":"chinease",
     "restaurant": {
       "name": "Golden Wok",
       "address": "789 South Lane, Jaipur",
@@ -161,6 +170,7 @@
     "type": "Non-Vegetarian",
     "desc": "Chicken stir-fried with vegetables in a spicy Szechuan sauce.",
     "rating": 4.8,
+      "category":"chinease",
     "restaurant": {
       "name": "China Gate",
       "address": "234 Sunrise Boulevard, Chandigarh",
@@ -178,6 +188,7 @@
     "type": "Vegetarian",
     "desc": "Mixed vegetables battered and deep-fried until crispy, served with a spicy dipping sauce.",
     "rating": 4.6,
+      "category":"chinease",
     "restaurant": {
       "name": "Wok 'n' Roll",
       "address": "123 Spice Avenue, Ahmedabad",
@@ -195,6 +206,7 @@
     "type": "Vegetarian",
     "desc": "A spicy and tangy soup with mixed vegetables, flavored with soy sauce and garlic, garnished with crispy noodles.",
     "rating": 4.7,
+      "category":"chinease",
     "restaurant": {
       "name": "Soup Factory",
       "address": "456 Central Market, Lucknow",
@@ -212,6 +224,7 @@
     "type": "Vegetarian",
     "desc": "Spicy noodles stir-fried with garlic, chilies, and mixed vegetables.",
     "rating": 4.7,
+      "category":"chinease",
     "restaurant": {
       "name": "Garlic Bowl",
       "address": "789 West Avenue, Surat",
@@ -229,6 +242,7 @@
     "type": "Vegetarian",
     "desc": "A tangy and spicy soup with tofu, mushrooms, and vegetables, flavored with soy sauce and vinegar.",
     "rating": 4.8,
+      "category":"chinease",
     "restaurant": {
       "name": "Soup City",
       "address": "890 Central Plaza, Indore",
@@ -236,23 +250,6 @@
       "offers": "Free breadsticks with any soup",
       "rating": 4.8,
       "about": "Soup City offers a wide range of soups, from classic to exotic, with a focus on Indo-Chinese flavors."
-    }
-  },
-  {
-    "id": 15,
-    "dish": "Schezwan Paneer",
-    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/08/schezwan-paneer-4.jpg",
-    "price": 129,
-    "type": "Vegetarian",
-    "desc": "Paneer cubes stir-fried in a spicy Schezwan sauce with bell peppers and onions.",
-    "rating": 4.8,
-    "restaurant": {
-      "name": "Paneer Palace",
-      "address": "567 Market Street, Nagpur",
-      "timing": "12:00 PM - 10:30 PM",
-      "offers": "20% off on orders above Rs. 600",
-      "rating": 4.9,
-      "about": "Paneer Palace specializes in a variety of paneer dishes, blending traditional Indian and Chinese flavors."
     }
   }
 ]
